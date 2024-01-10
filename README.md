@@ -1,5 +1,5 @@
 # OpenCovenantLicense
-A license framework designed for the ethical and equitable distribution of digital content.
+##A license framework designed for the ethical and equitable distribution of digital content.
 
 In the digital age, where information is as valuable as currency, we propose the Open Covenant License (OCOV) as a pioneering content-sharing and distribution approach. The OCOV's design is towards fostering an ecosystem of openness, ethical responsibility, and equitable profit sharing. Here's what sets the OCOV apart:
 
