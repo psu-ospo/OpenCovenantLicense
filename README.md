@@ -1,3 +1,5 @@
+*the OCOV is under active development. We welcome your contributions!*
+
 # OpenCovenantLicense
 ## A license framework designed for the ethical and equitable distribution of digital content.
 
