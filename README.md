@@ -18,4 +18,4 @@ Protection of Sensitive Content: The OCOV categorizes sensitive content into sta
 
 **Practical Guidance**: An appendix provides examples, FAQs, and clarifications, making the OCOV not just a content license but a practical guide for creators, users, and distributors.
 
-The OCOV is a testament to the power of open sharing balanced with ethical responsibility. It's a blueprint for the future of content distribution, where transparency, equity, and respect for creators' rights pave the way for a more informed, beneficent, and just digital world.
+The vision of the OCIV is to autopoietically amplify the power of open sharing balanced with ethical responsibility. It's a blueprint for the future of content distribution, where transparency, equity, and respect for creators' rights pave the way for a more informed, beneficent, and just digital world.
